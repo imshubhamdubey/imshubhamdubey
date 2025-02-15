@@ -7,7 +7,7 @@ My passion is developing high-performance, user-friendly solutions from the grou
 
 Back-end: Java, Spring Boot, Hibernate, REST APIs, Microservices.
 
-Front-end: React, HTML5, CSS3, 
+Front-end: Angular, HTML5, CSS3, JS
 
 Databases: MySQL, PostgreSQL, MongoDB
 
